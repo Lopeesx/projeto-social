@@ -24,7 +24,7 @@ main{
     
 }
 section#celular{
-    position:absolute ;
+    position:absolute ;/*Centraliza a div*/
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
